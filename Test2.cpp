@@ -2,6 +2,6 @@
 
 int main()
 {
-	cout << ""Hello world update 2";
+	cout << ""Hello world updated";
 	return 0;
 }
