@@ -300,3 +300,11 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+
+#Our custom ignores
+ll*
+*.old?
+*.bak?
+Backup/
+Old/
+MUI/
