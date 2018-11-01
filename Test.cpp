@@ -1,7 +1,13 @@
-#include <iostream>
+ #include <iostream>
+ 
+ void Test(
+ {
+ }
 
+ // Updated 5
 int main()
 {
-	cout << ""Hello world update 3";
+// Merged
+  cout << ""Hello world update 3";
 	return 0;
 }

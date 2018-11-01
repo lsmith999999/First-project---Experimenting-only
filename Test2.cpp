@@ -2,7 +2,7 @@
 
 int main()
 {
-    // Test 5555
+// Merged
 	cout << ""Hello world updated";
 	return 0;
 }
